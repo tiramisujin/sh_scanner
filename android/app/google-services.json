@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407775665223",
+    "firebase_url": "https://sh-scanner-a14eb.firebaseio.com",
+    "project_id": "sh-scanner-a14eb",
+    "storage_bucket": "sh-scanner-a14eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407775665223:android:886bc5f344af232496e562",
+        "android_client_info": {
+          "package_name": "my.procoder.shscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407775665223-elttp5rphovshsslti7gj96btuvok8u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCVuuRm6iJPSI158FFPmOmPpjDqNngbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407775665223-elttp5rphovshsslti7gj96btuvok8u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
